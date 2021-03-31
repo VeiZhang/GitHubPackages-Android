@@ -7,5 +7,5 @@
 
 
 [basetools]:https://github.com/VeiZhang/BaseToolsLibrary
-[basetools_download]:https://github.com/VeiZhang/GitHubPackages-Android
-[basetools_latestVersion]:https://img.shields.io/badge/release-1.2.9--RC3-blue
+[basetools_download]:https://img.shields.io/badge/release-1.2.9--RC3-blue
+[basetools_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
