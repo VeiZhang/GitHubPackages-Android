@@ -1,26 +1,65 @@
-# GitHubPackagesPrivate-Android
-集中管理/使用私有GitHub Packages
+# GitHubPackages-Android
+集中管理/使用GitHub Packages
 
 | 依赖 | 版本 |
 | --- | ---- |
-| [youtubetv][youtubetv] | [![Download][youtubetv_download]][youtubetv_latestVersion] |
-| [smarttube][smarttube] | [![Download][smarttube_download]][smarttube_latestVersion] |
-| [diy-epgview][diy-epgview] | [![Download][diy-epgview_download]][diy-epgview_latestVersion] |
-| [subtitle][subtitle] | [![Download][subtitle_download]][subtitle_latestVersion] |
+| [basetools][basetools] | [![Download][basetools_download]][basetools_latestVersion] |
+| [permission][permission] | [![Download][permission_download]][permission_latestVersion] |
+| [retrofit-client2][retrofit-client2] | [![Download][retrofit-client2_download]][retrofit-client2_latestVersion] |
+| [skinloader][skinloader] | [![Download][skinloader_download]][skinloader_latestVersion] |
+| [toast][toast] | [![Download][toast_download]][toast_latestVersion] |
+| [mailsender][mailsender] | [![Download][mailsender_download]][mailsender_latestVersion] |
+| [downloader][downloader] | [![Download][downloader_download]][downloader_latestVersion] |
+| [app-statistics][app-statistics] | [![Download][app-statistics_download]][app-statistics_latestVersion] |
+| [exec][exec] | [![Download][exec_download]][exec_latestVersion] |
+| [imageloader][imageloader] | [![Download][imageloader_download]][imageloader_latestVersion] |
+| [bluetooth][bluetooth] | [![Download][bluetooth_download]][bluetooth_latestVersion] |
 
 
-[youtubetv]:https://github.com/VeiZhang/youtubetv
-[youtubetv_download]:https://img.shields.io/badge/release-1.0.3--RC2-blue
-[youtubetv_latestVersion]:https://github.com/VeiZhang/GitHubPackagesPrivate-Android/packages
+[basetools]:https://github.com/VeiZhang/BaseToolsLibrary
+[basetools_download]:https://img.shields.io/badge/release-1.2.9--RC3-blue
+[basetools_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
 
-[smarttube]:https://github.com/VeiZhang/youtubetv
-[smarttube_download]:https://img.shields.io/badge/release-1.0.0--RC1-blue
-[smarttube_latestVersion]:https://github.com/VeiZhang/GitHubPackagesPrivate-Android/packages
+[permission]:https://github.com/VeiZhang/Permission
+[permission_download]:https://img.shields.io/badge/release-1.0.2-blue
+[permission_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
 
-[diy-epgview]:https://github.com/VeiZhang/DIY-EpgView
-[diy-epgview_download]:https://img.shields.io/badge/release-1.0.3-blue
-[diy-epgview_latestVersion]:https://github.com/VeiZhang/GitHubPackagesPrivate-Android/packages
+[retrofit-client2]:https://github.com/VeiZhang/RetrofitClient
+[retrofit-client2_download]:https://img.shields.io/badge/release-2.0.1-blue
+[retrofit-client2_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
 
-[subtitle]:https://github.com/VeiZhang/SubtitleForAndroid
-[subtitle_download]:https://img.shields.io/badge/release-1.0.1-blue
-[subtitle_latestVersion]:https://github.com/VeiZhang/GitHubPackagesPrivate-Android/packages
+[skinloader]:https://github.com/VeiZhang/QSkinLoader
+[skinloader_download]:https://img.shields.io/badge/release-1.2.2-blue
+[skinloader_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
+
+[toast]:https://github.com/VeiZhang/ToastKit
+[toast_download]:https://img.shields.io/badge/release-1.1.0-blue
+[toast_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
+
+[mailsender]:https://github.com/VeiZhang/MailSender
+[mailsender_download]:https://img.shields.io/badge/release-1.0.0-blue
+[mailsender_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
+
+[downloader]:https://github.com/VeiZhang/Downloader
+[downloader_download]:https://img.shields.io/badge/release-1.2.0-blue
+[downloader_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
+
+[app-statistics]:https://github.com/VeiZhang/AppStatistics
+[app-statistics_download]:https://img.shields.io/badge/release-1.0.1-blue
+[app-statistics_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
+
+[exec]:https://github.com/VeiZhang/AndroidExec
+[exec_download]:https://img.shields.io/badge/release-1.1.2-blue
+[exec_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
+
+[ffmpeg]:https://github.com/VeiZhang/AndroidFFmpeg
+[ffmpeg_download]:https://img.shields.io/badge/release-1.2.2-blue
+[ffmpeg_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
+
+[imageloader]:https://github.com/VeiZhang/ImageLoader
+[imageloader_download]:https://img.shields.io/badge/release-1.0.0-blue
+[imageloader_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
+
+[bluetooth]:https://github.com/VeiZhang/BluetoothKit
+[bluetooth_download]:https://img.shields.io/badge/release-1.0.0-blue
+[bluetooth_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
