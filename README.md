@@ -12,6 +12,7 @@
 | [downloader][downloader] | [![Download][downloader_download]][downloader_latestVersion] |
 | [app-statistics][app-statistics] | [![Download][app-statistics_download]][app-statistics_latestVersion] |
 | [exec][exec] | [![Download][exec_download]][exec_latestVersion] |
+| [ffmpeg][ffmpeg] | [![Download][ffmpeg_download]][ffmpeg_latestVersion] |
 | [imageloader][imageloader] | [![Download][imageloader_download]][imageloader_latestVersion] |
 | [bluetooth][bluetooth] | [![Download][bluetooth_download]][bluetooth_latestVersion] |
 
@@ -53,7 +54,7 @@
 [exec_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
 
 [ffmpeg]:https://github.com/VeiZhang/AndroidFFmpeg
-[ffmpeg_download]:https://img.shields.io/badge/release-1.2.2-blue
+[ffmpeg_download]:https://img.shields.io/badge/release-1.2.3-blue
 [ffmpeg_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
 
 [imageloader]:https://github.com/VeiZhang/ImageLoader
