@@ -54,7 +54,7 @@
 [exec_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
 
 [ffmpeg]:https://github.com/VeiZhang/AndroidFFmpeg
-[ffmpeg_download]:https://img.shields.io/badge/release-1.2.3-blue
+[ffmpeg_download]:https://img.shields.io/badge/release-1.2.4-blue
 [ffmpeg_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
 
 [imageloader]:https://github.com/VeiZhang/ImageLoader
