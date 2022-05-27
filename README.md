@@ -18,7 +18,7 @@
 
 
 [basetools]:https://github.com/VeiZhang/BaseToolsLibrary
-[basetools_download]:https://img.shields.io/badge/release-1.3.0-blue
+[basetools_download]:https://img.shields.io/badge/release-1.3.1-blue
 [basetools_latestVersion]:https://github.com/VeiZhang/GitHubPackages-Android/packages
 
 [permission]:https://github.com/VeiZhang/Permission
